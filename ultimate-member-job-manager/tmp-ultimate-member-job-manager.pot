@@ -1,0 +1,58 @@
+# Copyright (C) 2015 Ultimate Member Job Manager
+# This file is distributed under the same license as the Ultimate Member Job Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member Job Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ultimate-member-"
+"job-manager\n"
+"POT-Creation-Date: 2015-11-25 04:22:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: ultimate-member-components/wp-job-manager/um-wp-job-manager/um-wp-job-manager-loader.php:31
+msgid "Job Dashboard"
+msgstr ""
+
+#: ultimate-member-components/wp-job-manager/um-wp-job-manager/um-wp-job-manager-loader.php:38
+msgid "Jobs"
+msgstr ""
+
+#: ultimate-member-components/wp-job-manager/um-wp-job-manager/um-wp-job-manager-loader.php:43
+msgid "Post a Job"
+msgstr ""
+
+#: ultimate-member-components/wp-job-manager/um-wp-job-manager/um-wp-job-manager-loader.php:48
+msgid "My Bookmarks"
+msgstr ""
+
+#: ultimate-member-components/wp-job-manager/um-wp-job-manager/um-wp-job-manager-loader.php:53
+msgid "Job Alerts"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member Job Manager"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://opentuteplus.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin integrates WP Job Manager and its extensions into your Ultimate "
+"Member user profiles. This plugin needs Ultimate Member and WP Job Manager "
+"to be installed. Ultimate Member Job Manager is compatible with the "
+"following WP Job Manager extensions: Applications, Bookmarks and Job Alerts."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Kishore Sahoo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blog.kishorechandra.co.in/"
+msgstr ""
